@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jboogles
-- 👀 I’m currently interested in js and discord bot development
+- 👀 I’m currently interested in learning api's and discord bot development
 - 📫 you can reach me at jayschreiber007@gmail.com or on discord @boogles#0770
 
 <!---
